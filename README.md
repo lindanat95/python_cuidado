@@ -11,11 +11,11 @@ Contenidos:
 
   ## Módulo 2: Librerías básicas para el análisis de datos en Python
 
-Objetivo de aprendizaje: Aprender los conceptos básicos y aplicaciones con librerías de Python diseñadas para el análisis y visualización de la información de manera que se desarrollen bases sólidas para las aplicaciones posteriores.
+*Objetivo de aprendizaje:* Aprender los conceptos básicos y aplicaciones con librerías de Python diseñadas para el análisis y visualización de la información de manera que se desarrollen bases sólidas para las aplicaciones posteriores.
 
-Contenidos:
-●    Estructuras de datos en Pandas: Series y DataFrames.
-●    Manipulación básica de DataFrames en Pandas: selección, filtrado, agregación
+*Contenidos:*
+- ●    Estructuras de datos en Pandas: Series y DataFrames.
+- ●    Manipulación básica de DataFrames en Pandas: selección, filtrado, agregación
 ●    Importar y exportar datos guardados en distintos formatos
 ●    Creación de gráficos básicos en Matplotlib
 ●    Personalización y parametrización de las visualizaciones
