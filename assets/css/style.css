@@ -39,7 +39,7 @@ label {
     background-size: cover;
     min-height: 520px;
     text-align: center;
-    color: white;
+    color: #011526;
     font-weight: 300;
     position: relative;
 }
@@ -130,7 +130,7 @@ label {
 }
 
 .navbar-inverse {
-    background: #0B1D33;
+    background: #F2F2F2;
 }
 /* Highlights*/
 .highlight {
@@ -168,13 +168,13 @@ div.hbox {
 }
 
 .page-header {
-    border-bottom: 1px solid #15c008;
+    border-bottom: 1px solid #038C8C;
 }
 
 .page-title {
     margin-top: 20px;
     font-weight: 300;
-    color: #15c008;
+    color: #038C8C;
 }
 
 .text-muted {
@@ -247,14 +247,14 @@ img {
 
 /* Footer */
 .footer1 {
-    background: #0B1D33;
+    background: #F2F2F2;
     padding: 30px 0 0 0;
     font-size: 12px;
-    color: #999;
+    color: #262626;
 }
 
     .footer1 a {
-        color: #ccc;
+        color: #262626;
     }
 
         .footer1 a:hover {
@@ -268,7 +268,7 @@ img {
     .footer1 .panel-title {
         font-size: 17px;
         font-weight: bold;
-        color: #ccc;
+        color: #011526;
         margin: 0 0 20px;
     }
 
@@ -299,18 +299,18 @@ img {
     .follow-me-icons i {
         float: left;
         margin: 0 10px 0 0;
-        color: #0b9ff3;
+        color: #8A88BF;
     }
 
 .footer2 {
-    background: #060a1b;
+    background: #D9D9D9;
     padding: 15px 0;
-    color: #777;
+    color: #011526;
     font-size: 12px;
 }
 
     .footer2 a {
-        color: #aaa;
+        color: #011526;
     }
 
         .footer2 a:hover {
